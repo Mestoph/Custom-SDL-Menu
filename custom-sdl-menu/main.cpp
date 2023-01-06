@@ -1,4 +1,3 @@
-
 #include <vector>
 
 #ifdef _WIN32
