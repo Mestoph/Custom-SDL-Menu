@@ -27,7 +27,7 @@ elseif(CMAKE_SYSTEM_NAME STREQUAL "Windows")
     add_custom_target(libs ALL
         COMMAND ${CMAKE_COMMAND} -E copy_directory ${CMAKE_SOURCE_DIR}/resources/json ${CMAKE_BINARY_DIR}/${PROJECT_NAME}
         DEPENDS ${MY_TARGET}
-        COMMENT "Copy json to binary dir.")
+        COMMENT "Copy libs to binary dir.")
 endif()
 
 add_custom_target(fonts ALL
