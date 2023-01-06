@@ -3,6 +3,8 @@ Custom SDL Menu is a menu that is compatible with Windows and Linux for running 
 
 The primary goal of this project was to create a start menu on a Raspberry Pi.
 
+The menu can be controlled using the mouse, keyboard, and joystick.
+
 # Preview
 ![Alt text](https://github.com/Mestoph/Custom-SDL-Menu/blob/main/resources/screenshots/preview.png "Optional title")
 
